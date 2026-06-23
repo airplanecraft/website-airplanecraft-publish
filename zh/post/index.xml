@@ -6,7 +6,52 @@
     <description>Recent content in Posts on Claridade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 05 Apr 2025 21:30:35 +0800</lastBuildDate><atom:link href="https://www.airplanecraft.com/zh/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2026 10:30:37 +0800</lastBuildDate><atom:link href="https://www.airplanecraft.com/zh/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20 亿 token，3 周，1 个产品上线：1000usdinchina.com 诞生记</title>
+      <link>https://www.airplanecraft.com/zh/post/1000usdinchina/</link>
+      <pubDate>Tue, 23 Jun 2026 10:30:37 +0800</pubDate>
+      
+      <guid>https://www.airplanecraft.com/zh/post/1000usdinchina/</guid>
+      <description>
+        
+          
+            &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1 个想法。20 亿 token。3 周。→ 1 个产品，已上线。&lt;/strong&gt; 🚀&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天，我独自上线了 &lt;a href=&#34;https://1000usdinchina.com&#34;&gt;&lt;strong&gt;1000usdinchina.com&lt;/strong&gt;&lt;/a&gt;——一个以「一人公司」方式从零做出来的产品。&lt;/p&gt;
+&lt;h2 id=&#34;起点一个简单到没人好好回答的问题&#34;&gt;起点：一个简单到没人好好回答的问题&lt;/h2&gt;
+&lt;p&gt;每一个打算来中国的外国游客，第一个问题几乎都一样：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;「这趟下来，到底要花我多少钱？」&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;而网上没有一个像样的答案。酒店、餐饮、火车、门票——信息散落在各处，一半还是中文的。对一个不懂中文的旅行者来说，光是把预算估个大概都成了一道难题。&lt;/p&gt;
+&lt;p&gt;于是，我把这个「答案」做了出来。&lt;/p&gt;
+&lt;h2 id=&#34;产品把预算变成一条真实可执行的路线&#34;&gt;产品：把预算变成一条真实可执行的路线&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://1000usdinchina.com&#34;&gt;1000usdinchina.com&lt;/a&gt; 的用法很直接：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;告诉它你的预算、从哪座城市入境和出境、什么时候去&lt;/strong&gt;——它会在中国 100 座城市之间规划一条路线，并用你自己的语言和货币，算出这趟旅行的真实花费：住宿、餐饮、交通、景点，全部拆开列清楚。&lt;/p&gt;
+&lt;p&gt;它还内置了一个 &lt;strong&gt;AI 行程 Agent&lt;/strong&gt;：你只需要丢一句话进去——&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;「10 天，落地上海，喜欢美食和古镇」&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;它就能把这句话变成一份完整的、带价格明细的行程单。&lt;/p&gt;
+&lt;p&gt;几个核心能力：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;预算估算器&lt;/strong&gt;：6 项输入 → 推荐多城市路线 + 总价分解（住宿 / 餐饮 / 交通 / 景点 / 本地出行）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;避峰出行&lt;/strong&gt;：一键切换避开十一黄金周 / 春节，立刻看到非假期的价格系数&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;家庭出行&lt;/strong&gt;：区分成人 / 幼儿 / 儿童 / 老人，住宿按房间数与折扣规则计算&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多城覆盖&lt;/strong&gt;：67 座城市可用，11 座深度精修（北京 / 上海 / 西安 / 杭州 / 苏州 / 平遥 / 成都 / 重庆 / 广州 / 桂林 / 香港）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多语言&lt;/strong&gt;：英 / 日 / 韩 / 俄，货币与语言强耦合&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一句话生成行程&lt;/strong&gt;：AI Agent 把自然语言变成完整的、costed 的行程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;真正让我自己都惊讶的地方&#34;&gt;真正让我自己都惊讶的地方&lt;/h2&gt;
+&lt;p&gt;整套东西——&lt;strong&gt;数据管线、边缘架构、四种语言、AI 行程规划器&lt;/strong&gt;——是&lt;strong&gt;一个人 + AI 编码 Agent&lt;/strong&gt;在&lt;strong&gt;三周&lt;/strong&gt;内完成并上线的。&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>指数、对数、导数的定义与关系</title>
       <link>https://www.airplanecraft.com/zh/post/quant-maths-2/</link>
@@ -4254,10 +4299,8 @@ note in quotes as the second parameter.  The inner body of the note can be whate
       decoding=&#34;async&#34;
       alt=&#34;https://gorillalogic.com/wp-content/uploads/2018/09/Sign-Up-Implementation-7--768x312.png&#34;
       
-        class=&#34;image_figure image_external image_processed&#34;
-        width=&#34;768&#34;
-        height=&#34;312&#34;
-        src=&#34;https://www.airplanecraft.com/images/Sign-Up-Implementation-7--768x312_15683792732263294091.png&#34;
+        class=&#34;image_figure image_external image_unprocessed&#34;
+        src=&#34;https://gorillalogic.com/wp-content/uploads/2018/09/Sign-Up-Implementation-7--768x312.png&#34;
       
       
     /&gt;

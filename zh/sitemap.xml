@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.airplanecraft.com/zh/</loc>
-    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,17 @@
                 href="https://www.airplanecraft.com/zh/"
                 />
   </url><url>
+    <loc>https://www.airplanecraft.com/zh/post/1000usdinchina/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/tags/ai/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/tags/buildinpublic/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
+  </url><url>
     <loc>https://www.airplanecraft.com/zh/categories/</loc>
-    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,8 +37,11 @@
                 href="https://www.airplanecraft.com/zh/categories/"
                 />
   </url><url>
+    <loc>https://www.airplanecraft.com/zh/tags/cloudflare/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
+  </url><url>
     <loc>https://www.airplanecraft.com/zh/tags/index/</loc>
-    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,11 +53,14 @@
                 href="https://www.airplanecraft.com/zh/tags/index/"
                 />
   </url><url>
-    <loc>https://www.airplanecraft.com/zh/tags/math/</loc>
-    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+    <loc>https://www.airplanecraft.com/zh/tags/indiehacker/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/tags/nextjs/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
   </url><url>
     <loc>https://www.airplanecraft.com/zh/post/</loc>
-    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,14 +72,11 @@
                 href="https://www.airplanecraft.com/zh/post/"
                 />
   </url><url>
-    <loc>https://www.airplanecraft.com/zh/tags/quant/</loc>
-    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
-  </url><url>
-    <loc>https://www.airplanecraft.com/zh/categories/quant/</loc>
-    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+    <loc>https://www.airplanecraft.com/zh/tags/solofounder/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
   </url><url>
     <loc>https://www.airplanecraft.com/zh/tags/</loc>
-    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,6 +87,34 @@
                 hreflang="zh"
                 href="https://www.airplanecraft.com/zh/tags/"
                 />
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/categories/technology/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.airplanecraft.com/en/categories/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.airplanecraft.com/zh/categories/technology/"
+                />
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/tags/travel/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/tags/%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8/</loc>
+    <lastmod>2026-06-23T10:30:37+08:00</lastmod>
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/tags/math/</loc>
+    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/tags/quant/</loc>
+    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
+  </url><url>
+    <loc>https://www.airplanecraft.com/zh/categories/quant/</loc>
+    <lastmod>2025-04-05T21:30:35+08:00</lastmod>
   </url><url>
     <loc>https://www.airplanecraft.com/zh/tags/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84/</loc>
     <lastmod>2025-04-05T21:30:35+08:00</lastmod>
@@ -130,9 +170,6 @@
     <loc>https://www.airplanecraft.com/zh/post/how-to-evaluate-fund-returns/</loc>
     <lastmod>2025-03-28T12:40:37+08:00</lastmod>
   </url><url>
-    <loc>https://www.airplanecraft.com/zh/tags/ai/</loc>
-    <lastmod>2025-03-27T12:40:37+08:00</lastmod>
-  </url><url>
     <loc>https://www.airplanecraft.com/zh/tags/tradindview/</loc>
     <lastmod>2025-03-27T12:40:37+08:00</lastmod>
   </url><url>
@@ -156,19 +193,6 @@
   </url><url>
     <loc>https://www.airplanecraft.com/zh/tags/ml/</loc>
     <lastmod>2023-12-03T10:30:37+08:00</lastmod>
-  </url><url>
-    <loc>https://www.airplanecraft.com/zh/categories/technology/</loc>
-    <lastmod>2023-12-03T10:30:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.airplanecraft.com/en/categories/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.airplanecraft.com/zh/categories/technology/"
-                />
   </url><url>
     <loc>https://www.airplanecraft.com/zh/post/generative-ai/</loc>
     <lastmod>2023-12-03T10:30:37+08:00</lastmod>
